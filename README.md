@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Siddhant Shah</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Python and Web Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geekysid&label=Profile%20views&color=0e75b6&style=flat" alt="geekysid" /> </p>
 
@@ -22,8 +22,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/siddhant-shah-158658a6" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="siddhant-shah-158658a6" height="30" width="40" /></a>
-<a href="https://instagram.com/siddhantshah36" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="siddhantshah36" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ucwnqg7eusc7xwe1jt1sa1ka" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="ucwnqg7eusc7xwe1jt1sa1ka" height="30" width="40" /></a>
+<a href="https://instagram.com/siddhantshah36" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="siddhantshah39" height="30" width="40" /></a>
+<!-- <a href="https://www.youtube.com/c/ucwnqg7eusc7xwe1jt1sa1ka" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="ucwnqg7eusc7xwe1jt1sa1ka" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
